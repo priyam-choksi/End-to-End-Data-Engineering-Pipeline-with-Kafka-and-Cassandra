@@ -22,6 +22,8 @@ This project serves as a step-by-step guide to building a complete data engineer
    - **Simplified Deployment**: Docker is used to containerize all components of the pipeline. Each component runs in its own Docker container, making the system modular and easy to manage.
    - **Scalability and Portability**: Docker ensures that the entire pipeline can be easily deployed on any environment, from local machines to cloud servers, enhancing scalability and portability.
 
+![image](https://github.com/priyam-choksi/Real-time-data-processing-pipeline/blob/main/Data%20engineering%20architecture.png)
+
 ### Key Benefits
 
 - **Comprehensive Learning**: You will learn how to set up and manage each component of a data engineering pipeline, from ingestion to storage.
