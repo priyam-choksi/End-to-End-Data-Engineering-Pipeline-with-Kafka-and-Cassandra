@@ -1,5 +1,8 @@
 ### Real time data processing pipeline
 
+![image](https://github.com/priyam-choksi/Real-time-data-processing-pipeline/blob/main/Data%20engineering%20architecture.png)
+
+
 This project serves as a step-by-step guide to building a complete data engineering pipeline, covering everything from data ingestion to processing and storage. Here’s a detailed breakdown:
 
 1. **Data Ingestion with Apache Airflow**:
@@ -22,7 +25,7 @@ This project serves as a step-by-step guide to building a complete data engineer
    - **Simplified Deployment**: Docker is used to containerize all components of the pipeline. Each component runs in its own Docker container, making the system modular and easy to manage.
    - **Scalability and Portability**: Docker ensures that the entire pipeline can be easily deployed on any environment, from local machines to cloud servers, enhancing scalability and portability.
 
-![image](https://github.com/priyam-choksi/Real-time-data-processing-pipeline/blob/main/Data%20engineering%20architecture.png)
+
 
 ### Key Benefits
 
